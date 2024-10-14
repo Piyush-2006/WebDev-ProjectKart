@@ -1,5 +1,5 @@
 # Coin Toss App
-
+# Piyush Kumar 
 ## About The Project
 
 It is a virtual coin toss app built using Javascript.This code simulates a coin flip that produces heads or tails with a cool 3D Animation. 
